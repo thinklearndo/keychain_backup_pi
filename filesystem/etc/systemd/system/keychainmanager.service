@@ -1,0 +1,10 @@
+[Unit]
+Description=Starts keychain manager python script.
+
+[Service]
+Type=exec
+ExecStart=python3 /usr/bin/keychain_manager.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

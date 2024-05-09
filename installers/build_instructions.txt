@@ -1,0 +1,9 @@
+Building a debian installer for keychainbackup:
+
+inside debian folder is keychainbackup-x.x folder, where x.x corresponds to the version that is being built.
+
+copy all the folders and files from filesystem to the keychainbackup-x.x folder.
+
+update the information in keychainbackup-x.x/DEBIAN/control for the build.
+
+Build the package using the command: dpkg-deb --build keychainbackup-x.x/

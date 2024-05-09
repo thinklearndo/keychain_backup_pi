@@ -1,0 +1,7 @@
+Package: keychainbackup
+Version: 0.3
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: JKTWare, LLC <thinklearndoers@gmail.com>
+Description: Software side of keychain backup, a system to turn a raspberry pi into a backup management system with a keyholder.
