@@ -5,7 +5,7 @@ Raspberry pi imager application installed, get it from here: https://www.raspber
 
 SD card inserted into the computer
 
-Image downloaded from our release page.
+Image downloaded from our [release page.](https://github.com/thinklearndo/keychain_backup_pi/releases)
 
 -----------
 
