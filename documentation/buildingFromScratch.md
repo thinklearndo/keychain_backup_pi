@@ -27,7 +27,9 @@ Raspberry pi 3b+ gerbers [hardwarefiles/pcb/pi3b](https://github.com/thinklearnd
 8x m2.6x4mm screws
 
 
-Solder headers and buttons onto board
+Solder headers and buttons onto board:
+
+![alt text](pics/board_soldered.jpg)
 
 ### Make the case:
 
