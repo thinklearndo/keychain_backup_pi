@@ -28,8 +28,9 @@ In the morning when you are ready to take your keys, press one of the buttons on
 ## Setup
 
 1. Follow the steps in [image flashing](documentation/imageFlashing.md) to get your sdcard setup with the keychain backup image.
-2. [Assemble the hardware](documentation/assembly.md).
-3. [Mount it on the wall](documentation/mounting.md).
+2. If you aren't using the kit, [build from scratch](documentation/buildingFromScratch.md).
+3. [Assemble the hardware](documentation/assembly.md).
+4. [Mount it on the wall](documentation/mounting.md).
 
 Finally, setup backups:
 
