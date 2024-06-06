@@ -2,6 +2,8 @@
 
 ## What is Keychain Backup Pi?
 
+<img src="documentation/pics/mainpic.jpg" width="45%"> <a href="https://www.tindie.com/stores/thinklearndo/?ref=offsite_badges&utm_source=sellers_thinklearndo&utm_medium=badges&utm_campaign=badge_large"><img align="right" src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
 This project is a backup system that allows keeping your important files with you all the time! Simply plug in your USB drive when you hang up your keys at night, backups run overnight over wifi, and in the morning take your freshly backed up files when you grab your keys. All powered by that amazing linux SBC, the raspberry pi.
 
 ## Improvements in this version:
